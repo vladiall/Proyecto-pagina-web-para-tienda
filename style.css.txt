@@ -1,0 +1,17 @@
+body {
+  margin: 0em;
+}
+
+.cover {
+  height: 359px;
+  background-image: url(https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/peluqeria%20imagen%20fondo2.jpg?v=1657627954875);
+  color: white;
+  background-size:cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode: darken;
+}
+.card{
+  border: 0 !important;
+  box-shadow:0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba()
+}

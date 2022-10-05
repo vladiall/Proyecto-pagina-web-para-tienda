@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>✂ Garage Hair Studio Spa ✂</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+      integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav
+        class="navbar navbar-expand-lg navbar-light navbar navbar-light"
+        style="background-color: #e3f2fd"
+      >
+        <a class="navbar-brand" href="#">
+          <img
+            src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/3361b280-ca38-47be-96a4-28e2b1cf9d99.imagen.png?v=1657620904221"
+            width="55"
+            height="55"
+            class="d-inline-block align-top"
+            alt=""
+          />
+        </a>
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarText"
+          aria-controls="navbarText"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="">Bienvenidos/@ <span class="sr-only">(current)</span></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/index2.html copy">Nuestra Historia</a>
+            </li>
+           
+            <li  class="nav-item">
+               <a class="nav-link" href="#">Nuestros Productos</a>
+            
+            </li>
+            
+            <li  class="nav-item">
+              
+            
+            </li>
+            
+            <li class="nav-item">
+              <button class="btn btn-primary">✂ Administrador ✂</button>
+              
+              
+            </li>
+          </ul>
+          <span class="navbar-text">
+            Hora de usar las tijeras Guapo/@ ✂ ✂
+          </span>
+        </div>
+      </nav>
+                     
+      <div
+        
+        
+        class="cover d-flex justify-content-center align-items-center flex-column">
+        <p style="font-size: 65px">GARAGE HAIR STUDIO SPA</p>
+        <button class="btn btn-warning">Agenda tu visita</button> 
+        <h><p style="font-size: 22px">
+            DIRECCION: DIAGONAL PARAGUAY 481 OFICINA 95 SANTIAGO CENTRO
+          </p></h><a href="https://www.google.com/maps/place/Diag.+Paraguay+481,+oficina+95,+Santiago,+8320000,+Regi%C3%B3n+Metropolitana/@-33.4423908,-70.643125,20z/data=!4m13!1m7!3m6!1s0x9662c59fac2eaaab:0xe66d6859f403db1!2sDiag.+Paraguay+481,+oficina+95,+Santiago,+8320000,+Regi%C3%B3n+Metropolitana!3b1!8m2!3d-33.4424126!4d-70.6428474!3m4!1s0x9662c59fac2eaaab:0xe66d6859f403db1!8m2!3d-33.4424126!4d-70.6428474">PINCHA AQUI PARA VER A GARAGE HAIR STUDIO SPA EN EL MAPA </a>
+
+       
+        
+         <a href="https://www.instagram.com/garagestudio.cl/" class="btn btn-warning"> VISTAMOS EN INSTAGRAM </a> 
+         <a href="https://www.tiktok.com/@garagehaircl" class="btn btn-warning">VISTAMOS EN TIK TOK</a>
+             
+      
+  </div>
+    </header>
+    
+      <!--aqui empieza el carrucel--->
+    <section>
+      <div class="container mt-5 mb-5">
+        <div class="product-stripe">
+        <div class="stripe-container">
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/rsz_screenshot_2022-07-12_at_09-58-23_%F0%9F%94%A5garage_hair_studio%F0%9F%94%A5_garagestudiocl_%E2%80%A2_fotos_y_videos_de_instagram.png?v=1657635610353"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+                <span class="badge badge-info">Aqui estara el precio de los cortes de pelo </span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+          <div class="card" style="width: 18rem">
+            <img
+              src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/rsz_screenshot_2022-07-12_at_09-58-23_%F0%9F%94%A5garage_hair_studio%F0%9F%94%A5_garagestudiocl_%E2%80%A2_fotos_y_videos_de_instagram.png?v=1657635610353"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Tipo de corte de pelo</h5>
+              <p class="card-text">
+                En esta parte existira una descripcion de los cortes de pelo y
+                su precio
+              </p>
+              <a href="#" class="btn btn-warning"
+                >Ver disponibilidad y agendar</a
+              >
+              <span class="badge badge-info">Aqui estara el precio de los cortes de pelo </span>
+            </div>
+          </div>
+        </div>
+        
+        
+        <div class="col">
+        <div class="card" style="width: 18rem">
+          <img
+            src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/rsz_screenshot_2022-07-12_at_09-58-23_%F0%9F%94%A5garage_hair_studio%F0%9F%94%A5_garagestudiocl_%E2%80%A2_fotos_y_videos_de_instagram.png?v=1657635610353"
+            class="card-img-top"
+            alt="..."
+          />
+          <div class="card-body">
+            <h5 class="card-title">Tipo de corte de pelo</h5>
+            <p class="card-text">
+              En esta parte existira una descripcion de los cortes de pelo y su
+              precio
+            </p>
+            <a href="#" class="btn btn-warning">Ver disponibilidad y agendar</a>
+            <span class="badge badge-info">Aqui estara el precio de los cortes de pelo </span>
+          </div>
+        </div>
+      </div>
+      
+       <div class="col">
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/rsz_screenshot_2022-07-12_at_09-58-23_%F0%9F%94%A5garage_hair_studio%F0%9F%94%A5_garagestudiocl_%E2%80%A2_fotos_y_videos_de_instagram.png?v=1657635610353"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">Tipo de corte de pelo</h5>
+          <p class="card-text">
+            En esta parte existira una descripcion de los cortes de pelo y su
+            precio
+          </p>
+          <a href="#" class="btn btn-warning">Ver disponibilidad y agendar</a>
+          <span class="badge badge-info">Aqui estara el precio de los cortes de pelo </span>
+        </div>
+      </div>
+      </div>  
+    </div>
+  </section>
+          
+      <!-- hasta aqui llega el carrucel -->
+<section>
+      <div class="container mt-5 mb-5">
+        <div class="row">
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/rsz_screenshot_2022-07-12_at_09-58-23_%F0%9F%94%A5garage_hair_studio%F0%9F%94%A5_garagestudiocl_%E2%80%A2_fotos_y_videos_de_instagram.png?v=1657635610353"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/Screenshot%202022-07-12%20at%2010-27-44%20%F0%9F%94%A5Garage%20Hair%20Studio%F0%9F%94%A5%20(%40garagestudio.cl)%20%E2%80%A2%20Fotos%20y%20videos%20de%20Instagram.png?v=1657636082439"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/Screenshot%202022-07-12%20at%2010-24-29%20%F0%9F%94%A5Garage%20Hair%20Studio%F0%9F%94%A5%20(%40garagestudio.cl)%20%E2%80%A2%20Fotos%20y%20videos%20de%20Instagram.png?v=1657635897347"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/Screenshot%202022-07-12%20at%2010-22-30%20%F0%9F%94%A5Garage%20Hair%20Studio%F0%9F%94%A5%20(%40garagestudio.cl)%20%E2%80%A2%20Fotos%20y%20videos%20de%20Instagram.png?v=1657635780540"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card" style="width: 18rem">
+              <img
+                src="https://cdn.glitch.global/dd4cfdb3-5e1f-4982-a17a-c244d025aa3f/fondo.png?v=1657625303484"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Tipo de corte de pelo</h5>
+                <p class="card-text">
+                  En esta parte existira una descripcion de los cortes de pelo y
+                  su precio
+                </p>
+                <a href="#" class="btn btn-warning"
+                  >Ver disponibilidad y agendar</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       <div> 
+    </section>
+  </body>
+</html>
